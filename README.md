@@ -1,16 +1,44 @@
-## Hi there 👋
+Привет! Меня зовут Дмитрий 👋
+Python-разработчик | Инженер ИИ-ассистентов | Сетевые технологии | Промпт-инжиниринг
+🚀 Создаю надёжные backend-решения, автоматизирую процессы с помощью ботов и ИИ, интегрирую российские и зарубежные нейросети через API. Фокус на воспроизводимых архитектурах, чистом коде и академически корректной документации.
+🛠 Технический стек
+Категория	                            Инструменты
+**Языки**	                            Python 3.10+, Bash, SQL, YAML
+**Фреймворки**	                      FastAPI, aiogram, Flask, SQLAlchemy, Pydantic
+**ИИ & Нейросети**                   	YandexGPT, GigaChat, ruGPT, OpenAI API, LangChain, Ollama, Llama 3
+**Сети & Инфраструктура**	            Docker, Nginx, REST/gRPC, WebSockets, CI/CD (GitHub Actions), OpenTelemetry
+**Промпт-инжиниринг**               	Chain-of-Thought, Few-Shot, RAG-архитектуры, системные промпты, оценка LLM-выводов
+**Инструменты**                     	Git, Poetry, pre-commit, Ruff, pytest, Postman, Wireshark, tcpdump
+📂 Избранные проекты
+🤖 [Название проекта 1] — Telegram-бот с RAG и интеграцией российской LLM
+Задача: Автоматизация поддержки клиентов с контекстным поиском по внутренней базе знаний.
+Стек: aiogram, FastAPI, ChromaDB, YandexGPT API, Docker
+Ссылка: GitHub | Демо
+Роль: Полный цикл: архитектура, промпт-дизайн, тестирование, деплой.
+🌐 [Название проекта 2] — API-шлюз для маршрутизации запросов к нейросетям
+Задача: Единая точка входа для динамического выбора модели (ru/en) с логированием, rate-limiting и fallback-логикой.
+Стек: FastAPI, Redis, SQLAlchemy, GitHub Actions
+Ссылка: GitHub
+📊 [Название проекта 3] — Сетевые утилиты и автоматизация конфигураций
+Описание: Коллекция Python-скриптов для анализа трафика, парсинга конфигураций маршрутизаторов и визуализации топологий.
+Ссылка: GitHub
+📈 Активность и статистика
+<!-- Статистика обновляется автоматически через публичные API GitHub -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ВАШ_ЛОГИН&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_ЛОГИН&theme=radical" alt="Streak Stats" />
+</p>
 
-<!--
-**Dimitriy1204/Dimitriy1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Обучение и академическая практика
+В рамках учебных и исследовательских проектов я придерживаюсь строгих стандартов академической честности:
+Все сторонние библиотеки, API, датасеты и научные работы явно указаны в документации репозиториев.
+Цитирование оформляется в соответствии с APA 7 или MLA 9 (полные списки вынесены в REFERENCES.md каждого проекта).
+Код покрыт тестами, зависимости зафиксированы, архитектура воспроизводима.
+Пример оформления ссылки на документацию API (APA 7):
+Яндекс. (2025). YandexGPT API Documentation. https://yandex.cloud/ru/docs/foundation-models/
+📬 Контакты
+📧 Email: [your@email.com]
+💬 Telegram: [@ваш_юзернейм]
+🔗 LinkedIn / Habr / Портфолио: [ссылка]
+🐙 GitHub: [github.com/ВАШ_ЛОГИН]
+Последнее обновление: <!-- date -->
